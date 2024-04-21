@@ -1,4 +1,4 @@
-﻿# TypingEn
+﻿# TypingGEn
 It is a simple PHP based typing speed site, styled with Bootstrap5. It has features like:
 
  - User management(Regsiter,Login,Logout)
